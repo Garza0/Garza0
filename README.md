@@ -4,7 +4,7 @@
 [Email](mailto:kono.andriy@gmail.com) |
 [Telegram](https://t.me/garza0)
 
-**Main skills**: `HTML` `CSS` `JavaScript` `Node.js` `React` `Redux`
+**Main skills**: `React` `React Native` `Redux` `HTML` `CSS` `JavaScript` `Node.js` 
 
 <!--
 - 🔭 I’m currently working on ...
